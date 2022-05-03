@@ -1,0 +1,15 @@
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Domzad1\task6_int_even\obj\Debug\net6.0\task6_int_even.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Domzad1\task6_int_even\obj\Debug\net6.0\task6_int_even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Domzad1\task6_int_even\obj\Debug\net6.0\task6_int_even.AssemblyInfoInputs.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Domzad1\task6_int_even\obj\Debug\net6.0\task6_int_even.AssemblyInfo.cs
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Domzad1\task6_int_even\obj\Debug\net6.0\task6_int_even.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Domzad1\task6_int_even\bin\Debug\net6.0\task6_int_even.exe
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Domzad1\task6_int_even\bin\Debug\net6.0\task6_int_even.deps.json
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Domzad1\task6_int_even\bin\Debug\net6.0\task6_int_even.runtimeconfig.json
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Domzad1\task6_int_even\bin\Debug\net6.0\task6_int_even.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Domzad1\task6_int_even\bin\Debug\net6.0\task6_int_even.pdb
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Domzad1\task6_int_even\obj\Debug\net6.0\task6_int_even.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Domzad1\task6_int_even\obj\Debug\net6.0\refint\task6_int_even.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Domzad1\task6_int_even\obj\Debug\net6.0\task6_int_even.pdb
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Domzad1\task6_int_even\obj\Debug\net6.0\task6_int_even.genruntimeconfig.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Domzad1\task6_int_even\obj\Debug\net6.0\ref\task6_int_even.dll
