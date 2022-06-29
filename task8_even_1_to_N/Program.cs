@@ -15,3 +15,20 @@ for (int i = 2; i <= Number; i++)
         }
     }
 }
+/*второй вариант, менее оптимальный 
+Console.WriteLine("Введите число ");
+int number = Convert.ToInt32(Console.ReadLine());
+int count = 2;
+
+while (count <= number)
+{
+    if (count >= number - 1)
+    {
+        Console.Write(count);
+    }
+    else 
+    {
+        Console.Write(count + ", ");
+    }
+    count = count + 2;
+*/
